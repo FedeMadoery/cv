@@ -191,7 +191,7 @@ figure {
     text-align: center;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.5);
-    padding: 0 20px;
+    padding: 10rem 2rem 0px 2rem;
     width: 100%; }
     @media screen and (max-width: 768px) {
       #pucholib-aside .pucholib-footer {
@@ -208,7 +208,7 @@ figure {
         display: inline;
         list-style: none; }
         #pucholib-aside .pucholib-footer ul li a {
-          color: rgba(255, 255, 255, 0.3);
+          color: rgba(0, 0, 0, 0.5);
           padding: 4px; }
           #pucholib-aside .pucholib-footer ul li a:hover, #pucholib-aside .pucholib-footer ul li a:active, #pucholib-aside .pucholib-footer ul li a:focus {
             text-decoration: none;
