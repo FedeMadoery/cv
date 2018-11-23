@@ -417,6 +417,17 @@ body.offcanvas {
     .pucholib-heading {
       margin-bottom: 3em; } }
 
+.pucholib-modal-heading {
+  font-size: 18px;
+  margin: 0;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  position: relative; }
+  @media screen and (max-width: 768px) {
+  .modal-dialog {
+    padding-top: 50%; } }
+
 .heading-meta {
   margin-bottom: 15px;
   display: block;

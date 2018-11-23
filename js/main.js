@@ -315,6 +315,8 @@
         sliderMain();
         stickyFunction();
         owlCrouselFeatureSlide();
+
+        $('#inConstructionModal').modal("show");
     });
 
 
