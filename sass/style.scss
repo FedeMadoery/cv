@@ -1750,8 +1750,17 @@ margin-left: -20px;
 	}
 }
 
+.frameworksBox {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 10rem;
+	margin-bottom: 2rem;
+}
+
 .frameworks {
 	display: inline-block;
+	margin: auto;
 	width: 10rem;
 	opacity: .5;
 	-webkit-filter: grayscale(100%);
